@@ -35,6 +35,8 @@
         <framework src="AVFoundation.framework" />
         <framework src="AssetsLibrary.framework" />
         <framework src="CoreVideo.framework" />
+        <!-- IOS7 and Xcode5 build -->
+        <framework src="QuartzCore.framework"/>        
     </platform>
 
     <!-- android -->
